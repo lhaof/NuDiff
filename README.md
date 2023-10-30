@@ -1,4 +1,4 @@
-# Nudiff: Diffusion-based Data Augmentation for Nuclei Image Segmentation
+# Nudiff: Diffusion-based Data Augmentation for Nuclei Image Segmentation (MICCAI 2023)
 This repository holds the code for the paper "Diffusion-based data augmentation for nuclei image segmentation".
 
 ## Description
